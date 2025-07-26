@@ -72,19 +72,6 @@
 * Seasonal leaderboards
 * Interoperable NFT expansion
 
-
-
-
-Great — we’ll build the **Rocket Realms Whitepaper** tailored for both **investors** and **players**, with emphasis on:
-
-* Fun, skill-based gameplay for users
-* Token utility, monetization, and scalability for investors
-* Clear roadmap to inspire confidence
-
----
-
-### I’ll now begin drafting the **full whitepaper content** section-by-section, starting with:
-
 ---
 
 ## **1. Introduction**
@@ -241,10 +228,6 @@ Players can spend \$NRG to upgrade:
 
 ---
 
-Great! Let’s continue with the next sections of the whitepaper:
-
----
-
 ## **6. Crafting & Loot System**
 
 Loot is the heartbeat of Rocket Realms’ progression. During each flight, players can collect items that can be **assembled into powerful tools** or **sold to others**.
@@ -373,17 +356,6 @@ Marketplace volume drives:
 * **Royalties for ecosystem sustainability**
 * **Player-to-player economy**
 * **\$NRG demand**
-
----
-
-Shall I continue with the final sections?
-Next up:
-
-* **10. VIP Pass & Monetization**
-* **11. Roadmap & Vision**
-* **12. Conclusion**
-
-Perfect — let’s wrap up with the final sections of the whitepaper:
 
 ---
 
